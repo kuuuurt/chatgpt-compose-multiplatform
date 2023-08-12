@@ -29,7 +29,7 @@ class ChatGPTClient {
     install(Auth) {
       bearer {
         loadTokens {
-          BearerTokens("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", "")
+          BearerTokens("<INSERT_CHATGPT_API_KEY>", "")
         }
       }
     }
