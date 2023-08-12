@@ -1,8 +1,8 @@
 rootProject.name = "compose-multiplatform"
 
-include(":androidApp")
+include(":app-android")
+include(":app-desktop")
 include(":shared")
-include(":desktopApp")
 
 pluginManagement {
     repositories {
