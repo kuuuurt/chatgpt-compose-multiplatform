@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform.ui
+package com.kuuurt.chatgpt.multiplatform.ui
 
 import androidx.compose.ui.window.ComposeUIViewController
 

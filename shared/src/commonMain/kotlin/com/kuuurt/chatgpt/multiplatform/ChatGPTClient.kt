@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform
+package com.kuuurt.chatgpt.multiplatform
 
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body

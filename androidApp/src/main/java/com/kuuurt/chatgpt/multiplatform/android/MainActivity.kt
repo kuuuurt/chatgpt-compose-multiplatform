@@ -1,9 +1,9 @@
-package com.kuuurt.compose.multiplatform.android
+package com.kuuurt.chatgpt.multiplatform.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.kuuurt.compose.multiplatform.ui.ChatScreen
+import com.kuuurt.chatgpt.multiplatform.ui.ChatScreen
 
 class MainActivity : ComponentActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {

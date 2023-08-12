@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform
+package com.kuuurt.chatgpt.multiplatform
 
 interface Platform {
   val name: String

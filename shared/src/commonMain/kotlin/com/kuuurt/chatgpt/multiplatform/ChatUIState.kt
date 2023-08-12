@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform
+package com.kuuurt.chatgpt.multiplatform
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

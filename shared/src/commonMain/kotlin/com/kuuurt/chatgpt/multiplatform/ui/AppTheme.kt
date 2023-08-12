@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform.ui
+package com.kuuurt.chatgpt.multiplatform.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

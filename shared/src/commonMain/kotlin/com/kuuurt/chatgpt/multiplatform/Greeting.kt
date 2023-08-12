@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform
+package com.kuuurt.chatgpt.multiplatform
 
 class Greeting {
   private val platform: Platform = getPlatform()

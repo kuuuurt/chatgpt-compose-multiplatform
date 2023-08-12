@@ -1,4 +1,4 @@
-package com.kuuurt.compose.multiplatform
+package com.kuuurt.chatgpt.multiplatform
 
 import platform.UIKit.UIDevice
 
